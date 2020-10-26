@@ -4,4 +4,4 @@
 
 <i>Linux Distro recommended</i>
 
-Run using bash
+Run this script using bash
