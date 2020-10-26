@@ -1,2 +1,7 @@
 # Instagram-ID-Code-Fetcher
-Get the hidden unique id of Instagram accounts
+
+<b>This script is used to Get the hidden unique id of Instagram accounts using User name</b>
+
+<i>Linux Distro recommended</i>
+
+Run using bash
