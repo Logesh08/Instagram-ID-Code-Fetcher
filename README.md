@@ -4,4 +4,4 @@
 
 <i>Linux Distro recommended</i>
 
-Run this script using bash, it can be used for building coustom inshacle module for getting IDs into the field
+Run this script using bash, it can be used for building coustomized inshacle module for getting IDs into the field of .xml or .html file
